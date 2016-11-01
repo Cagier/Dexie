@@ -1,0 +1,10 @@
+http://www.slf4j.org/download.html
+for slf4j-api-1.7.12.jar and the associated slf4j-nop-1.7.12.jar
+
+mongodb-driver-3.0.4.jar
+mongodb-driver-core-3.0.4.jar
+
+bson-3.0.4.jar
+
+
+http://mirrors.ibiblio.org/pub/mirrors/maven2/joda-time/joda-time/1.6/joda-time-1.6.jar

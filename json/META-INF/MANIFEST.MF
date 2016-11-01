@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Export-Package: org.bson;version="3.0.4";uses:="org.bson.codecs,org.bs
+ on.codecs.configuration,org.bson.conversions,org.bson.io,org.bson.jso
+ n,org.bson.types",org.bson.assertions;version="3.0.4",org.bson.codecs
+ ;version="3.0.4";uses:="org.bson,org.bson.codecs.configuration,org.bs
+ on.types",org.bson.codecs.configuration;version="3.0.4";uses:="org.bs
+ on.codecs",org.bson.conversions;version="3.0.4";uses:="org.bson,org.b
+ son.codecs.configuration",org.bson.diagnostics;version="3.0.4",org.bs
+ on.io;version="3.0.4";uses:="org.bson,org.bson.types",org.bson.json;v
+ ersion="3.0.4";uses:="org.bson,org.bson.types",org.bson.types;version
+ ="3.0.4";uses:="org.bson"
+Bundle-SymbolicName: org.mongodb.bson
+Bundle-Version: 3.0.4
+Bundle-Name: bson
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1442240146000
+Import-Package: javax.xml.bind,org.slf4j;resolution:=optional;version=
+ "[1.7,2)"
+Created-By: 1.8.0_20 (Oracle Corporation)
+Tool: Bnd-2.1.0.20130426-122213
+
